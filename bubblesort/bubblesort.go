@@ -17,5 +17,7 @@ func BubbleUp(arr []int) bool {
 
 // BubbleSort sortiert die übergebene Liste mittels des Bubble-Sort-Algorithmus.
 func BubbleSort(arr []int) {
-	// TODO
+	for BubbleUp(arr) {
+
+	}
 }
